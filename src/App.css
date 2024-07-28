@@ -1,0 +1,28 @@
+.header{
+    background-color: rgb(221, 134, 35);
+    font-family: cursive;
+}
+.navbar{
+    background-color: rgb(12, 12, 12);
+}
+.custom-badge {
+    margin-left: 0.5rem; /* Adjust the value as needed */
+}
+.trend{
+    width:705px;
+    height: 264px;
+    
+}
+.productname{
+    color:  rgb(197, 123, 11)
+}
+.price{
+    margin-top: 9px;
+}
+.footer{
+    background-color: rgb(221, 134, 35);
+}
+.Star-value{
+    padding-right: 5px;
+    font-family:'Times New Roman', Times, serif
+}
